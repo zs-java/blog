@@ -2,3 +2,7 @@
 	path = docs/private
 	url = https://github.com/zs-java/blog-docs-private.git
 	branch = main
+[submodule "docs/.vuepress"]
+	path = docs/.vuepress
+	url = https://github.com/zs-java/blog-config-vuepress.git
+	branch = main
