@@ -5,13 +5,6 @@
 docs-shared/lib/
 packages/*/lib/
 
-# Vuepress Cache
-**/.vuepress/.cache/**
-# Vuepress Temp
-**/.vuepress/.temp/**
-# Vuepress Output
-dist/
-
 # npm config
 .npmrc
 
@@ -23,3 +16,9 @@ coverage/
 
 # macOS
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
