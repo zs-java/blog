@@ -7,7 +7,7 @@ title: 博客主页
 # (heroImage: /logo.svg)
 heroText: 朱帅
 heroFullScreen: false
-# bgImage: /BingWallpaper.jpg
+bgImage: https://file.mo7.cc/api/public/bz
 tagline: 程序员
 projects:
   - icon: project

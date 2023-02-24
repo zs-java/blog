@@ -9,7 +9,7 @@ tagline: Java、Go、Python、Node.js、Vue.js……
 
 features:
   - title: ssh4p
-    icon: markdown
+    icon: computer
     details: SSH 管理工具
     link: /projects/ssh4p
 
@@ -29,7 +29,7 @@ features:
     link: http://vlan.xzcoder.com/
 
   - title: Kube Dashboard
-    icon: info
+    icon: eye
     details: 轻量级 K8s 可视化平台<br/>（孵化中）
     link: https://vuepress-theme-hope.github.io/v2/guide/feature/page-info.html
 
