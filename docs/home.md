@@ -2,9 +2,10 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: /svg/project.svg
-heroText: 项目仪表板
-tagline: Java、Go、Python、Node.js、Vue.js…… 
+# heroImage: /svg/project.svg
+# heroText: 项目集
+heroText: ' '
+tagline: Java、Go、Python、Node.js、Vue.js……
 
 features:
   - title: ssh4p
@@ -15,7 +16,7 @@ features:
   - title: UniApp Pack Cli
     icon: slides
     details: uni-app 工程自动化自动化离线打包工具
-    link: https://vuepress-theme-hope.github.io/v2/guide/layout/slides
+    link: /projects/uni-app-pack-cli
 
   - title: Datax Cli
     icon: layout
@@ -25,7 +26,7 @@ features:
   - title: Visual Lan
     icon: comment
     details: 异地组网工具
-    link: https://vuepress-theme-hope.github.io/v2/guide/feature/comment.html
+    link: http://vlan.xzcoder.com/
 
   - title: Kube Dashboard
     icon: info
@@ -35,6 +36,5 @@ features:
   - title: 更多
     icon: info
     details: 敬请期待……
-    link: https://vuepress-theme-hope.github.io/v2/guide/feature/page-info.html
 
 ---

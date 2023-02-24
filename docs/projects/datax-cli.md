@@ -6,16 +6,17 @@ heroText: DataX CLI
 heroImage: /svg/golang.svg
 date: 2022-01-09
 actions:
-- text: GitHub
-  link: https://github.com/zs-java/datax-cli
+  - text: GitHub
+    link: https://github.com/zs-java/datax-cli
+    type: primary
 
 features:
-- title: 一键安装
-  icon: home
-- title: 使用简单
-  icon: home
-- title: 原生体验
-  icon: home
+  - title: 一键安装
+    icon: home
+  - title: 使用简单
+    icon: home
+  - title: 原生体验
+    icon: home
 ---
 
 # DataX Cli

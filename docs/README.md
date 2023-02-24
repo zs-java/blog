@@ -4,9 +4,10 @@ layout: Blog
 icon: home
 title: 博客主页
 
-[//]: # (heroImage: /logo.svg)
+# (heroImage: /logo.svg)
 heroText: 朱帅
 heroFullScreen: false
+# bgImage: /BingWallpaper.jpg
 tagline: 程序员
 projects:
   - icon: project
@@ -23,4 +24,9 @@ projects:
     name: DataX CLI
     desc: DataX 命令行工具
     link: /projects/datax-cli
+
+  - icon: music
+    name: Media Tools
+    desc: 音视频编辑工具
+    link: https://tools.xzcoder.com/
 ---

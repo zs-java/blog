@@ -9,6 +9,7 @@ date: 2022-01-09
 actions:
   - text: GitHub
     link: https://github.com/zs-java/ssh4p
+    type: primary
 
 features:
   - title: 一键安装
