@@ -2,13 +2,13 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: 主页
 
 # (heroImage: /logo.svg)
 heroText: 朱帅
 heroFullScreen: false
 bgImage: https://file.mo7.cc/api/public/bz
-tagline: 程序员
+tagline: ' '
 projects:
   - icon: project
     name: 项目集
