@@ -33,3 +33,10 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: npm run docs:build
+    - run: npm run deploy
+    
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: dist
+        path: docs/.vuepress/dist
