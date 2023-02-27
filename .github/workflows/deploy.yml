@@ -20,10 +20,11 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
     
-    - run: git submodule update --init --recursive
-    - run: git submodule update --recursive --remote
+    - name: Checkout submodules
+      uses: textbook/git-checkout-submodule-action@master
     
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
