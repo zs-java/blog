@@ -31,6 +31,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: ls -als docs/.vuepress
-    - run: npm run install
+    - run: npm install
     - run: npm run docs:build
