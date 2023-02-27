@@ -6,9 +6,9 @@ title: 主页
 
 heroImage: /svg/test.svg
 heroText: 朱帅
+tagline: 造轮子是我的快乐来源~
 heroFullScreen: false
 bgImage: https://file.mo7.cc/api/public/bz
-tagline: ' '
 projects:
   - icon: project
     name: 项目集
