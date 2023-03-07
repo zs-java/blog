@@ -296,7 +296,7 @@ fmt.Println("Handshake Done.")
 
 ![握手测试](https://static.xzcoder.com/markdown/image-1678120652397.png)
 
-可以看到通过`client.go`发起的请求`Echo服务端`可以正常影响，而通过`Telnet`的请求则握手失败。
+可以看到通过`client.go`发起的请求`Echo服务端`可以正常响应，而通过`Telnet`的请求则握手失败。
 
 ## 总结
 通过本文简单介绍了`TCP`服务端与客户端的开发流程和应用层协议握手，虽然内容很简单但这是后续开发网络应用的基础。<br/>
