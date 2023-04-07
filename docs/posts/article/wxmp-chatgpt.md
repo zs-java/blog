@@ -3,7 +3,7 @@ icon: openai
 date: 2023-04-07
 ---
 
-# 小白福利，零门槛体验 ChatGPT！
+# 小白福利，关注公众号体验 ChatGPT！
 
 不知道大家最近是否和我一样，被 ChatGPT 刷屏了。打开手机全是 ChatGPT 相关的信息。
 我也是跟风去体验了下 ChatGPT，确实是非常强大！
@@ -14,7 +14,7 @@ date: 2023-04-07
 
 ![聊天截图](https://static.xzcoder.com/markdown/image-1680802384694.png)
 
-<img src="https://static.xzcoder.com/markdown/image-1680802345903.png" alt="聊天截图" style="zoom: 33%;" />
+![聊天截图](https://static.xzcoder.com/markdown/image-1680840131622.png)
 
 ### 使用方法
 
@@ -25,6 +25,6 @@ date: 2023-04-07
 
 ### 最后
 
-因为 ChatGPT API 是收费的，现在接入到公众号内免费给大家使用，还望大家帮我点点在看并转发，您的举手之劳是对我莫大的鼓励。谢谢！
+ChatGPT API 是收费的，现在接入到公众号内免费给大家使用，还望大家帮我点点在看并转发，您的举手之劳是对我莫大的鼓励。谢谢！
 
-小伙伴们快来体验下 ChatGPT 的魅力吧～
+小伙伴们快来感受下 ChatGPT 的魅力吧～
