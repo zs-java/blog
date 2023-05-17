@@ -1,6 +1,8 @@
 ---
 icon: wx
 date: 2023-04-10
+category:
+  - ChatGPT
 ---
 
 # 初试微信公众号开发与对接 ChatGPT 接口

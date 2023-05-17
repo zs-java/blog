@@ -1,6 +1,8 @@
 ---
 icon: github
 date: 2023-02-27
+category:
+  - Blog
 ---
 
 # GitHub Action 自动化部署博客网站

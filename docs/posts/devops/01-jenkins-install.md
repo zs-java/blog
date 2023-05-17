@@ -2,7 +2,7 @@
 icon: devops
 date: 2023-05-15
 category:
-  - DevOps
+  - DevOps篇
   - CI/CD
   - Jenkins
 ---

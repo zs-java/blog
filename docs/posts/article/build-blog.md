@@ -1,6 +1,8 @@
 ---
 icon: edit
 date: 2023-02-26
+category:
+  - Blog
 ---
 
 # 博客网站搭建

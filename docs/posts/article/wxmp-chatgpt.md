@@ -1,6 +1,8 @@
 ---
 icon: openai
 date: 2023-04-07
+category:
+  - ChatGPT
 ---
 
 # 小白福利，关注公众号体验 ChatGPT！

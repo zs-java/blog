@@ -1,6 +1,9 @@
 ---
 icon: network
 date: 2023-04-20
+category:
+  - 网络编程篇
+  - VPN
 ---
 
 # 网络编程篇：VPN 原理与实战开发
